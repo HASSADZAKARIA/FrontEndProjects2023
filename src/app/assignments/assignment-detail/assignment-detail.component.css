@@ -1,0 +1,10 @@
+#buttom{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+.custom-button{
+    margin: 0 auto; 
+    
+}

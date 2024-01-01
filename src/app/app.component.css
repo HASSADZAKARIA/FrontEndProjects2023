@@ -1,0 +1,29 @@
+.spacer {
+    flex: 1 1 auto;
+  }
+  
+  mat-sidenav-container{
+    height: calc(205vh - 115vh);
+  }
+  
+  mat-sidenav{
+    width: 280px;
+    background-color: #eee;
+  }
+  
+  mat-list-item:hover {
+  background-color: #f5f5f5; 
+  }
+  
+  .login{
+    margin-left: 10px;
+    margin-bottom: 10px;
+  }
+  .spacer {
+    flex-grow: 1;
+  }
+  
+  .title{
+    margin: 0;
+    text-align: center;
+  }
